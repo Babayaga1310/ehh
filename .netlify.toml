@@ -1,0 +1,4 @@
+[[headers]]
+for = "/*"  # Protege todas las rutas del sitio
+[headers.values]
+Authorization = "Basic YXV0aDoxMjM0"  # Autenticación básica con usuario y contraseña en Base64
